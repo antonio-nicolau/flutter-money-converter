@@ -1,16 +1,28 @@
-# cambiodiario
+# A Flutter money converter, dollar and euro to kwanza
 
-A new Flutter project.
+With this App is possible making currency conversions from any Angolan bank which will help deliver more truthful information to users
 
-## Getting Started
+![Splash Screen](https://github.com/antonio-nicolau/flutter-money-converter/blob/master/image1.jpg)
+![Home Screen](https://github.com/antonio-nicolau/flutter-money-converter/blob/master/image2.jpg)
 
-This project is a starting point for a Flutter application.
+## What are you going to learn with this project ?
 
-A few resources to get you started if this is your first Flutter project:
+- Consume api using the http package
+- Add ad using firebase_admob
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Configuration
+1. Add Your AdMob app ID in manifest file
+2. Replace testID in adManager file to your AdMob banner ID
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tools
+### Flutter
+### Package: http, firebase_admob
+
+## Contribuitions
+### This project was developed to help the community, your feedback will be well appreciated. Feel free to contribute
+
+[App download](https://bit.ly/2KWgbzM)
+
+[Linkedin](https://www.linkedin.com/in/ant%C3%B3nio-nicolau-5b7557181/)
+
+[Youtube Channel](https://www.youtube.com/channel/UCEWMpqJBIAjO3Lholi6VsDA)
