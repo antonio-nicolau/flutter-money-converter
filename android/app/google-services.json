@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "380256702606",
+    "firebase_url": "https://cambio-diario-83ef3.firebaseio.com",
+    "project_id": "cambio-diario-83ef3",
+    "storage_bucket": "cambio-diario-83ef3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380256702606:android:b896d9a24e4605637df9df",
+        "android_client_info": {
+          "package_name": "com.codeclean.cambiodiario"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380256702606-0ce69eoh1b13rvq74h8rrmg25ljcj3iu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM96XElwv8zACCC-6HMn7DG3_aDIO0atk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380256702606-0ce69eoh1b13rvq74h8rrmg25ljcj3iu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
