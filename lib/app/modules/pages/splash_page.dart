@@ -1,6 +1,5 @@
 import 'dart:async';
-
-import 'home_page.dart';
+import 'package:cambiodiario/app/modules/pages/home_page.dart';
 import 'package:flutter/material.dart';
 
 class SplashPage extends StatelessWidget {
