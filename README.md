@@ -2,8 +2,8 @@
 
 With this App is possible making currency conversions from any Angolan bank which will help deliver more truthful information to users
 
-![Splash Screen](https://github.com/antonio-nicolau/flutter-money-converter/blob/master/image1.jpg)
-![Home Screen](https://github.com/antonio-nicolau/flutter-money-converter/blob/master/image2.jpg)
+![Splash Screen](https://github.com/antonio-nicolau/flutter-money-converter/blob/main/image1.jpg)
+![Home Screen](https://github.com/antonio-nicolau/flutter-money-converter/blob/main/image2.jpg)
 
 ## What are you going to learn with this project ?
 
